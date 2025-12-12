@@ -16,7 +16,7 @@
 gcc -Wall -Wextra -O2 -o rootme1 rootme1.c -lm
 ```
 
-## TCP - Encoded string
+## TCP - Encoded string
 
 [Challenge Link](https://www.root-me.org/en/Challenges/Programming/TCP-Encoded-string)
 
